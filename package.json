@@ -1,0 +1,24 @@
+{
+  "name": "hangoutsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DigitalPromiseVictor/HangUpBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DigitalPromiseVictor/HangUpBot/issues"
+  },
+  "homepage": "https://github.com/DigitalPromiseVictor/HangUpBot#readme",
+  "dependencies": {
+    "hangouts-bot": "^0.2.1",
+    "nodemon": "^1.17.3"
+  }
+}
